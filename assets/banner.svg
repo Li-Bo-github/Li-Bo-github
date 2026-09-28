@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Hey, I'm Bo! Code, curiosity, and a little imagination.</title>
+<desc id="desc">A playful cream and lavender space illustration with a smiling robot, orbiting planets, stars and colorful code symbols.</desc>
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#e5dfd5"/></pattern></defs>
+<rect width="1200" height="380" rx="28" fill="#fff8ed"/><rect width="1200" height="380" rx="28" fill="url(#dots)"/>
+<path d="M815 0H1172Q1200 0 1200 28V352Q1200 380 1172 380H904C780 291 763 138 815 0" fill="#e8ddff"/>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#302447">
+<rect x="54" y="43" width="237" height="33" rx="16" fill="#e8ddff"/><text x="72" y="65" font-size="13" font-weight="700" letter-spacing="2">BO LI · BUILD &amp; PLAY</text>
+<text x="54" y="157" font-size="68" font-weight="800" letter-spacing="-3">Hey, I'm Bo!</text>
+<text x="57" y="205" font-size="24">Code, curiosity &amp; a little imagination.</text>
+<text x="57" y="244" font-size="17" fill="#665b78">Full-stack development · Cloud systems · Generative AI</text>
+<rect x="56" y="284" width="177" height="41" rx="20" fill="#ffd095"/><text x="76" y="310" font-size="15" font-weight="600">Ideas → Things that work</text>
+<path d="M257 305q42 23 78-5m-8-6 9 6-6 9" fill="none" stroke="#8460c3" stroke-width="3" stroke-linecap="round"/>
+</g>
+<g stroke="#403055" stroke-width="3" stroke-linejoin="round">
+<ellipse cx="990" cy="325" rx="115" ry="15" fill="#d4c1f4" stroke="none"/>
+<path d="M916 218l-37 39-22-16M1055 222l32 24 30-37" fill="none" stroke-width="15" stroke-linecap="round"/>
+<path d="M950 277l-8 37h-27m101-37 8 37h26" fill="none" stroke-width="16" stroke-linecap="round"/>
+<rect x="920" y="195" width="130" height="92" rx="27" fill="#ffbd78"/>
+<rect x="944" y="216" width="83" height="45" rx="12" fill="#fff8ed"/>
+<path d="m963 229-8 8 8 8m44-16 8 8-8 8m-19-17-7 18" fill="none" stroke="#8460c3" stroke-linecap="round"/>
+<path d="M986 116V91"/><circle cx="986" cy="81" r="10" fill="#ff996e"/>
+<rect x="896" y="118" width="177" height="96" rx="36" fill="#fffdf7"/>
+<rect x="914" y="135" width="141" height="61" rx="23" fill="#7251ad"/>
+<path d="M938 157q8-10 16 0m61 0q8-10 16 0m-56 12q12 13 24 0" fill="none" stroke="#fff8ed" stroke-linecap="round"/>
+<circle cx="933" cy="174" r="6" fill="#ffbdac" stroke="none"/><circle cx="1033" cy="174" r="6" fill="#ffbdac" stroke="none"/>
+<circle cx="1120" cy="76" r="25" fill="#ffbf79"/><ellipse cx="1120" cy="76" rx="43" ry="11" transform="rotate(-25 1120 76)" fill="none"/>
+<path d="m823 76 5 14 15 5-15 5-5 15-5-15-15-5 15-5z" fill="#ffbc73"/>
+<path d="m1137 282 4 10 11 4-11 4-4 11-4-11-11-4 11-4z" fill="#9bd4b4"/>
+<path d="m826 219-14 13 14 13m32-26 14 13-14 13" fill="none" stroke="#8460c3" stroke-linecap="round"/>
+<circle cx="1102" cy="160" r="5" fill="#fff8ed" stroke="none"/><circle cx="868" cy="302" r="6" fill="#8460c3" stroke="none"/>
+</g></svg>
